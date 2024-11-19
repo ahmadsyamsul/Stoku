@@ -1,6 +1,6 @@
-# flutter_application_tubes
+# flutter_stoku
 
-A new Flutter project.
+A Stock & Sales Management App
 
 ## Getting Started
 
